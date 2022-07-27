@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 This is second file
 Added second line
+=======
+>>>>>>> parent of fe2a53c... Added content in 2 file
